@@ -1,0 +1,193 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.menu-container {
+    margin: 0px;
+    padding: 20px;
+    color: #fff;
+    background-color: #3876BF;
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+}
+
+.profil {
+    width: 1500px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.daftar {
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nama-web{
+    display: flex;
+    justify-content: center;
+    background-color: #F3F0CA;
+    
+}
+.nama {
+    margin: 0px;
+    padding: 100px;
+    width: 1500px;
+    color: #E1AA74;
+    font-family: sans-serif;
+    font-size: 100px;
+}
+
+.bio-container{
+    padding: 25px;
+    background-color: #F3F0CA;
+}
+
+.subbagian{
+    display: flex;
+    justify-content: center;
+}
+
+.tag-bagian {
+    width: 1500px;
+    font-size: 20px;
+    color: #E1AA74;
+    display: flex;
+    justify-content: space-between;
+}
+
+.bagian-bagian{
+    margin:50px;
+    display: flex;
+    justify-content: center;
+}
+
+.bagian-sklh {
+    width: 1500px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.sklh-satu {
+    width: 300px;
+    height: 300px;
+    background-color: lightcoral;
+}
+
+.sklh-dua{
+    width: 300px;
+    height: 300px;
+    background-color: lightblue;
+}
+
+.sklh-tiga{
+    width: 300px;
+    height: 300px;
+    background-color: lightgray;
+}
+
+.sklh-satu,
+.sklh-dua,
+.sklh-tiga{
+    color: #fff;   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hobby-container{
+    padding: 30px;
+    background-color: #F3F0CA;
+    display: flex;
+    justify-content: center;
+}
+
+.subbagian-hobi{
+    width: 1500px;
+}
+
+.hobi-hobi{
+    display: flex;
+    justify-content: space-between;
+    font-size: 30px;
+    align-items: center;
+}
+
+.photo-hobby {
+    width: 1000px;
+}
+
+.atas {
+    height: 100px;
+    align-items: center;
+    font-size: 60px;
+    font-family: sans-serif;
+}
+
+.social-container{
+    margin: 0px;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.atur-social {
+    width: 1500px;
+}
+
+.all-social {
+    display: flex;
+    justify-content: space-around;
+}
+
+.ins,.mail{
+    display: flex;
+    justify-content: space-between;
+    font-size: 30px;
+    align-items: center;
+}
+
+.ins:hover{
+    color: #E1AA74;
+}
+
+.mail:hover{
+    color: #E1AA74;
+}
+
+.order:hover {
+    color: #3876BF;
+}
+
+.art-container{
+    padding: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+.posisi {
+    width: 1500px;
+}
+
+.kumpulan {
+    display: flex;
+    justify-content: space-between;
+    font-size: 25px;
+}
+
+.footer{
+    background-color: #3876BF;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.footer-ukuran{
+    width: 1500px;
+    color: #fff;
+    font-size: 30px;
+    display: flex;
+    justify-content: space-around;
+}
